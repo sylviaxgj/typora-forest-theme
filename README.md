@@ -16,3 +16,35 @@
 4.   对于文件列表中，文件的图标进行了更改，有些人可能不喜欢；
 5.   主题基于 Typora 1.2.4 开发，可以继续兼容后续版本，但不再向前兼容；
 6.   主题基于 Mac 开发，未在其他平台测试；
+
+
+
+## 安装
+
+- [下载](https://github.com/sylviaxgj/typora-forest-theme/releases)forest主题资源包
+- 打开Typora，选择`偏好设置` > `外观` > `打开主题文件夹`，将下载的forest.css和forest文件夹复制到该文件夹中
+- 重启Typora，然后选择`主题` > `Forest`，即可
+
+
+
+## 主题预览
+
+### 标题
+
+![image-20220519000233610](./assets/heading.png)
+
+### 行内文本
+
+![image-20220519000338108](./assets/text.png)
+
+### 列表
+
+![image-20220519000545574](./assets/list.png)
+
+### 表格
+
+![image-20220519000918940](./assets/table.png)
+
+### 代码块
+
+![image-20220519001133841](./assets/code.png)
