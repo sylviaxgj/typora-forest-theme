@@ -1,6 +1,6 @@
-![logo](./logo.png)
+![logo](./assets/logo.png)
 
->   Forest is about a theme for Typora
+>   Forest is about a theme for Typora like forest.
 
 在用了 Typora 近4年之后，我已经尝试了所有的主题。也许太过挑剔，发现每尝试过一款，总有一点点地方会让我稍稍觉得有些缺陷。
 
@@ -28,6 +28,8 @@
 
 
 ## 主题预览
+
+![image-20220519004258325](./assets/overview.png)
 
 ### 标题
 

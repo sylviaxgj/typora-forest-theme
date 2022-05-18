@@ -597,6 +597,9 @@ table thead {
   /*height: 2.2rem;*/
   line-height: 1.5;
 }
+.file-tree-node .file-node-content:hover {
+  cursor: pointer;
+}
 
 #file-library-tree .file-node-expanded>.file-node-content>.fa-folder:before {
   content: '\f07c';
