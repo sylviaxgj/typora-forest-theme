@@ -644,7 +644,7 @@ table tr th:last-of-type, table tr td:last-of-type {
     -webkit-print-color-adjust: exact;
   }
 
-  h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  #write>h1::before, #write>h2::before, #write>h3::before, #write>h4::before, #write>h5::before, #write>h6::before {
     content: '';
     bottom: 1rem;
   }
