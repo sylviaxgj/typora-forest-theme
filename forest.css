@@ -129,7 +129,7 @@ h2.md-focus::before, h3.md-focus::before, h4.md-focus::before, h5.md-focus::befo
 
 #write h1 {
   font-size: 2.1rem;
-  font-weight: 1000;
+  font-weight: 900;
   text-align: center;
   color: var(--h1-text-color);
 }
@@ -418,8 +418,10 @@ ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
 .task-list-item.md-task-list-item {
   list-style-type: none;
 }
-.md-task-list-item>input {
+.md-task-list-item>input, #write .md-task-list-item>input[type=checkbox] {
   margin-left: -1.6rem;
+  width: 0.5rem;
+  height: 0.5rem;
 }
 
 .md-task-list-item>input:before {
@@ -469,6 +471,9 @@ ol>li>ol>li>ol>li>ol>li>ol>li>ol>li>ol>li {
 }
 
 /* table */
+.md-table-edit .btn-default {
+  color: inherit;
+}
 table.md-table {
   width: auto;
   min-width: 80%;
