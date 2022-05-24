@@ -135,6 +135,7 @@ h2.md-focus::before, h3.md-focus::before, h4.md-focus::before, h5.md-focus::befo
 }
 #write h1>span{
   position: relative;
+  display: inline-block;
 }
 #write h1>span:after{
   content: '';
