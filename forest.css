@@ -598,6 +598,9 @@ table tr th:last-of-type, table tr td:last-of-type {
   content: '\f1ce'
 }
 
+.file-tree-node.active>.file-node-background {
+  border-left: 4px solid var(--theme-primary-color);
+}
 #typora-sidebar .file-list-item.file-library-node:not(.active):hover {
   background: var(--active-file-bg-color);
 }
