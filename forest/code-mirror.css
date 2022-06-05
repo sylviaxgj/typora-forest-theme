@@ -9,6 +9,10 @@
     border-left: 2px solid #f0f0f0;
 }
 
+.cm-s-inner .cm-header, .cm-s-inner.cm-header {
+    color: #A77DF4;
+}
+
 .cm-s-inner .CodeMirror-gutters {
     background: #003444;
     color: #546E7A;
