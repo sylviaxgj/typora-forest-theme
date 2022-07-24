@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'JetBrains Mono';
     font-style: normal;
-    src: local('JetBrainsMono-Regular'),
-    url('./JetBrainsMono-Regular.ttf') format('truetype');
+    src: local('JetBrainsMonoNL-Regular'),
+    url('./JetBrainsMonoNL-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'JetBrains Mono';
     font-style: italic;
     src: local('JetBrainsMono-Italic'),
-    url('./JetBrainsMono-Italic.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./JetBrainsMonoNL-Italic.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 @font-face {
@@ -17,7 +17,7 @@
     font-style: normal;
     font-weight: 500;
     src: local('JetBrainsMono-Medium'),
-    url('./JetBrainsMono-Medium.ttf') format('truetype');
+    url('./JetBrainsMonoNL-Medium.ttf') format('truetype');
 }
 
 @font-face {
@@ -25,7 +25,7 @@
     font-style: italic;
     font-weight: 500;
     src: local('JetBrainsMono-MediumItalic'),
-    url('./JetBrainsMono-MediumItalic.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./JetBrainsMonoNL-MediumItalic.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 @font-face {
@@ -33,7 +33,7 @@
     font-style: normal;
     font-weight: bold;
     src: local('JetBrainsMono-Bold'),
-    url('./JetBrainsMono-Bold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./JetBrainsMonoNL-Bold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
@@ -41,7 +41,7 @@
     font-style: italic;
     font-weight: bold;
     src: local('JetBrainsMono-BoldItalic'),
-    url('./JetBrainsMono-BoldItalic.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./JetBrainsMonoNL-BoldItalic.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
@@ -49,7 +49,7 @@
     font-style: normal;
     font-weight: 900;
     src: local('JetBrainsMono-ExtraBold'),
-    url('./JetBrainsMono-ExtraBold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./JetBrainsMonoNL-ExtraBold.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
@@ -57,7 +57,7 @@
     font-style: italic;
     font-weight: 900;
     src: local('JetBrainsMono-ExtraBoldItalic'),
-    url('./JetBrainsMono-ExtraBoldItalic.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./JetBrainsMonoNL-ExtraBoldItalic.ttf') format('truetype'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
