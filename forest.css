@@ -638,6 +638,7 @@ table tr th:last-of-type, table tr td:last-of-type {
 /* sidebar search*/
 .sidebar-menu .ty-sidebar-search-panel #file-library-search-input {
   color: var(--white-color);
+  background: transparent;
 }
 
 
