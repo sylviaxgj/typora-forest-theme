@@ -685,3 +685,8 @@ table tr th:last-of-type, table tr td:last-of-type {
 .typora-quick-open-item.active {
   opacity: 1;
 }
+
+.CodeMirror.cm-s-inner.cm-s-null-scroll.CodeMirror-wrap {
+  padding: 8px;
+}
+
