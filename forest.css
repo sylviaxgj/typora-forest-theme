@@ -83,6 +83,9 @@
   line-height: 1.6;
   padding: 36px 0 70px;
 }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p {
+  width: auto;
+}
 html, body, #write {
   background: var(--white-color);
   font-family: 'SourceHanSansSC','JetBrains Mono', -apple-system, sans-serif;
