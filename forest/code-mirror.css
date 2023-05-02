@@ -63,6 +63,12 @@
 .cm-s-inner .CodeMirror-line>span>span::-moz-selection {
     background: rgba(0,178,123,0.2);
 }
+.cm-s-inner .CodeMirror-selected {
+    background: rgba(0,178,123,0.2) !important;
+}
+.cm-s-inner .CodeMirror-selectedtext {
+    background: transparent !important;
+}
 
 .cm-s-inner .CodeMirror-activeline-background {
     background: #003444;
