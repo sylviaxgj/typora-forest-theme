@@ -678,11 +678,13 @@ table tr th:last-of-type, table tr td:last-of-type {
 }
 
 /* quick open bar */
-.typora-quick-open-item {
+.ty-quick-open-category {
   color: var(--white-color);
-  opacity: 0.3;
 }
-.typora-quick-open-item.active {
+.ty-quick-open-category .typora-quick-open-item {
+  opacity: 0.5;
+}
+.ty-quick-open-category .typora-quick-open-item.active {
   opacity: 1;
 }
 
