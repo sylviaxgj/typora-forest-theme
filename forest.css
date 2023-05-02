@@ -676,3 +676,17 @@ table tr th:last-of-type, table tr td:last-of-type {
 #typora-source .cm-header {
   color: var(--theme-primary-color);
 }
+
+/* quick open bar */
+.typora-quick-open-item {
+  color: var(--white-color);
+  opacity: 0.3;
+}
+.typora-quick-open-item.active {
+  opacity: 1;
+}
+
+.CodeMirror.cm-s-inner.cm-s-null-scroll.CodeMirror-wrap {
+  padding: 8px;
+}
+
