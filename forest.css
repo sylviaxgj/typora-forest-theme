@@ -653,7 +653,14 @@ table tr th:last-of-type, table tr td:last-of-type {
   color: var(--white-color);
   background: transparent;
 }
-
+/* sidebar tab for windows */
+.info-panel-tab:hover {
+  color: var(--white-color)!important;
+}
+.active-tab-files #info-panel-tab-file .info-panel-tab-border,
+.active-tab-outline #info-panel-tab-outline .info-panel-tab-border {
+  background-color: var(--white-color) !important;
+}
 
 /* resizer */
 #typora-sidebar-resizer.dragging{
