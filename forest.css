@@ -200,6 +200,16 @@ h2.md-focus::before, h3.md-focus::before, h4.md-focus::before, h5.md-focus::befo
   text-decoration: none;
   border-bottom: 1px solid;
 }
+#write .md-link a>span:after {
+  content: '';
+  display: inline-block;
+  background-image: url("./forest/link-icon.svg");
+  background-repeat: no-repeat;
+  width: 0.8em;
+  height: 0.8em;
+  vertical-align: middle;
+  margin-left: 3px;
+}
 
 strong {
   font-weight: 700;
